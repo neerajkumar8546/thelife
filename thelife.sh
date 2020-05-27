@@ -1,3 +1,3 @@
 #!/bin/bash x
 
-echo "Welcome to the life repro"
+echo "Welcome to the life repros"
